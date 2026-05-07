@@ -27,6 +27,6 @@ Ich nutze dieses Repository, um folgende Themen zu lernen bzw. zu verbessern:
 ## Inspiration
 
 Dieses Projekt wurde inspiriert durch:
-"https://github.com/tkarim45/Beginner-Data-Science-Projects"
+github.com/tkarim45/Beginner-Data-Science-Projects
 
 Ich werde es zum Lernen nutzten und meinen eigenen Code, meine eigenen Erklärungen, Experimente und Dokumentationen hinzugefügt.
