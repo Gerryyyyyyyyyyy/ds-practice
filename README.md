@@ -19,7 +19,7 @@ Ich nutze dieses Repository, um folgende Themen zu lernen bzw. zu verbessern:
 | Nr. | Projekt | Thema | Status |
 |-----|---------|-------|--------|
 | 01 | Titanic Survival Prediction | Klassifikation | Fertig |
-| 02 | Iris Flower Classification | Klassifikation | In Bearbeitung |
+| 02 | Iris Flower Classification | Klassifikation | Fertig |
 | 03 | Customer Churn Prediction | Klassifikation | Geplant |
 | 04 | Airbnb Price Prediction | Regression | Geplant |
 ...
